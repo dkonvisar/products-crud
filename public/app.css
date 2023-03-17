@@ -1,0 +1,11 @@
+tr {
+    vertical-align: middle;
+}
+
+.thumb-image {
+    width: 100px;
+}
+
+.update-image {
+    max-width: 250px;
+}
